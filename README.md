@@ -25,7 +25,8 @@ Can you gather all the lost fragments of inspiration, help the composer complete
 
 ## 🎮 Gameplay Features / 玩法特色
 
-|---------|------|
+| | |
+|-|-|
 | **Audio-Reactive Gameplay** — Obstacles move to the rhythm of the music | **音乐反应玩法** — 障碍物随音乐节奏律动 |
 | **3D-to-2D Transition** — Dynamic perspective shifts between exploration and platforming | **3D转2D视角切换** — 探索与平台跳跃之间动态转换 |
 | **Precision Platforming** — Tight controls with challenging jumps | **精准平台跳跃** — 严苛的操作与富有挑战的跳跃 |
