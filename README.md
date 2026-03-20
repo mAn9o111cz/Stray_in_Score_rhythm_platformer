@@ -25,7 +25,6 @@ Can you gather all the lost fragments of inspiration, help the composer complete
 
 ## 🎮 Gameplay Features / 玩法特色
 
-| English | 中文 |
 |---------|------|
 | **Audio-Reactive Gameplay** — Obstacles move to the rhythm of the music | **音乐反应玩法** — 障碍物随音乐节奏律动 |
 | **3D-to-2D Transition** — Dynamic perspective shifts between exploration and platforming | **3D转2D视角切换** — 探索与平台跳跃之间动态转换 |
@@ -40,48 +39,46 @@ Can you gather all the lost fragments of inspiration, help the composer complete
 
 ### 🟢 Level 1 — Tutorial / 第一关：教学关卡
 
-**English**  
 Level 1 is a **tutorial stage** with low difficulty and a modest BPM, designed to teach players the basic controls.
 
-**中文**  
 第一关为**教学关卡**，难度较低，BPM 适中，旨在让玩家熟悉基本操作。
 
 ---
 
 ### 🟡 Level 2 — Route Planning / 第二关：路线规划
 
-**English**  
 Level 2 centers on **route planning**. Notes are scattered across the stage and can be collected via multiple paths, so players must carefully plan their route.
-
-**中文**  
+ 
 第二关的核心是**路线规划**。音符散落在关卡各处，可通过多条路径收集，玩家需要仔细规划行进路线。
 
 ---
 
 ### 🔴 Level 3 — The Final Challenge / 第三关：最终挑战
 
-**English**  
 Level 3 is the **most challenging stage**, combining platforming with puzzle-solving. It also features the **fastest BPM**. Numerous obstacles — such as **cannon fire** and **moving blocks** — must be cleared before players can proceed.
-
-**中文**  
+ 
 第三关是**最具挑战性的关卡**，结合了平台跳跃与解谜元素，同时拥有**最快的 BPM**。玩家需要清除大量障碍物——如**炮火**和**移动平台**——才能继续前进。
 
 <img width="1920" height="1080" alt="StrayinScore-4" src="https://github.com/user-attachments/assets/87c16c12-e5fe-4756-bb0c-32e4911b8743" />
 
+## 🛠️ Tech Stack / 技术栈
+
+| Category | Technology |
+|----------|------------|
 | Engine / 引擎 | Unity |
 | Language / 语言 | C# |
 | Platform / 平台 | PC |
 
 <img width="1920" height="1080" alt="StrayinScore-5" src="https://github.com/user-attachments/assets/292302d4-41f4-4915-bcb7-2ee36dd33251" />
 
-👥 Credits / 制作团队
+
 Game Design & Development / 游戏设计与开发 — mAn9o111cz
 
 Music & Sound Design / 音乐与音效 — from Internet
 
 Art / 美术 — mAn9o111cz
 
-📄 License / 许可证
+
 This project is for educational and portfolio purposes only. All rights reserved.
 
 本项目仅用于学习和作品集展示。保留所有权利。
